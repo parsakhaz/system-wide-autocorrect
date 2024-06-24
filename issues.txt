@@ -1,0 +1,4 @@
+- ' and other punctuation breaks it
+- depending on how much context you pass, it is slow
+- takes a while to load the model initially, but no way to know when it is loaded then to just start typing 
+- no undo function so I just erase, maybe ctrl shift backspace could be undo
